@@ -3,4 +3,7 @@ layout: page
 type: about
 ---
 
-Building...
+$$
+Just \space A\space Fresh\space Man
+$$
+
