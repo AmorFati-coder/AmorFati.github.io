@@ -11,6 +11,7 @@ tags: MCS-51
   - SEG
   - 7SEG-MPX1-CA  8个引脚
   - 7SEG-MPX4-CA 多位数码管
+  - 7SEG-COM-ANODE（共阳
 - 上拉电阻
   - RESPACK-8
 - 锁存器
@@ -18,7 +19,11 @@ tags: MCS-51
 - 三极管
   - NPN
 - 电阻
-  - RES
+  - 100WATT100R
+- 按键
+  - button
+- 电容
+  - C1808C161MZGACTU
 
 ## 学习过程中的问题:question:
 
@@ -91,6 +96,10 @@ tags: MCS-51
 ### [锁存器，静态显示，动态显示](https://share.mubu.com/doc/6Vqkhu_Xmf9)
 
 > 幕布内容来源于网络
+
+### [中断](https://share.mubu.com/doc/4gdNAOzmg9)
+
+> 图片源于肖谧老师的课件
 
 ## 注意事项:lock_with_ink_pen:
 ### 新建项目
