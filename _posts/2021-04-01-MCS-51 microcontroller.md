@@ -97,7 +97,7 @@ tags: MCS-51
 
 > 幕布内容来源于网络
 
-### [中断](https://share.mubu.com/doc/4gdNAOzmg9)
+### [中断](https://share.mubu.com/doc/534yg6GQt99)
 
 > 图片源于肖谧老师的课件
 
