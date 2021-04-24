@@ -69,6 +69,7 @@ description: 需要扩容，但碰到各种问题
 
 ```shell
 mkfs -t ext4 /dev/sda1
+resize2fs /dev/sda1
 ```
 
 ### 重启deepin解决问题

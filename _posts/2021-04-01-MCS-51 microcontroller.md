@@ -13,16 +13,26 @@ tags: MCS-51
   - 7SEG-MPX4-CA 多位数码管
   - 7SEG-COM-ANODE（共阳
 - 上拉电阻
+  
   - RESPACK-8
 - 锁存器
+  
   - 74HC573
 - 三极管
+  
   - NPN
 - 电阻
-  - 100WATT100R
+  
+  - 10WATT100R
+  
+  - 排阻
+  
+    - RES16DIPIS
 - 按键
+  
   - button
 - 电容
+  
   - C1808C161MZGACTU
 
 ## 学习过程中的问题:question:
@@ -101,6 +111,8 @@ tags: MCS-51
 
 > 图片源于肖谧老师的课件
 
+### [计时器/定时器](https://share.mubu.com/doc/7xPtVI41cl9)
+> [参考资料](https://www.cnblogs.com/hughdong/p/6878070.html)
 ## 注意事项:lock_with_ink_pen:
 ### 新建项目
 > Keil uVision5 + VScode，VScode插件：keil assistant + C++/C + ...
