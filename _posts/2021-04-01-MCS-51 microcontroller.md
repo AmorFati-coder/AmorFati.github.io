@@ -1,6 +1,6 @@
 ---
 title: 51单片机选修
-date: 2021-04-01
+date: 2021-05-10
 description: 电路垃圾的学习
 categories: Hardware
 tags: MCS-51
@@ -34,8 +34,15 @@ tags: MCS-51
 - 电容
   
   - C1808C161MZGACTU
+- 拓展芯片
+  - 拓展输出
+    - CD4094
+    - 74LS164
+  - 拓展输入
+    - CD4014
+    - 74LS165
 
-## 学习过程中的问题:question:
+## 学习过程中的问题
 
 ### [为什么数据类型多用unsigned](https://www.zhihu.com/question/404008117)
 
@@ -113,7 +120,13 @@ tags: MCS-51
 
 ### [计时器/定时器](https://share.mubu.com/doc/7xPtVI41cl9)
 > [参考资料](https://www.cnblogs.com/hughdong/p/6878070.html)
-## 注意事项:lock_with_ink_pen:
+
+### 串口通信
+
+- 
+
+
+## 注意事项
 ### 新建项目
 > Keil uVision5 + VScode，VScode插件：keil assistant + C++/C + ...
 
