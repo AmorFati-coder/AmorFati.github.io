@@ -1,6 +1,6 @@
 ---
 title: 51单片机选修
-date: 2021-05-10
+date: 2021-05-12
 description: 电路垃圾的学习
 categories: Hardware
 tags: MCS-51
@@ -121,9 +121,7 @@ tags: MCS-51
 ### [计时器/定时器](https://share.mubu.com/doc/7xPtVI41cl9)
 > [参考资料](https://www.cnblogs.com/hughdong/p/6878070.html)
 
-### 串口通信
-
-- 
+### [串口通信](https://share.mubu.com/doc/4hD0L_bnvhp)
 
 
 ## 注意事项
