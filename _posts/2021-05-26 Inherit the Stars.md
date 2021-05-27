@@ -1,5 +1,5 @@
 ---
-title: 《Inherit the Stars》
+title: "Inherit the Stars"
 date: 2021-05-26
 categories: Essays
 ---
