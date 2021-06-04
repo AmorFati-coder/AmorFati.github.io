@@ -4,7 +4,7 @@ date: 2021-05-26
 categories: Essays
 ---
 
-下周听说课，有任务安排，主题随意，正好今天下午拜读了《星之继承者》
+<center>下周听说课，有任务安排，主题随意，正好今天下午拜读了《星之继承者》</center>
 
 ​	<!--more-->
 
@@ -22,5 +22,9 @@ categories: Essays
 >
 > 大部分动物在陷入绝境时都会向命运屈服，最终落得一个一命呜呼的下场。而人类呢？人类从来不知道屈服为何物，他们总能鼓起勇气，不折不挠地抗争下去。论顽强和固执，他们绝对是无与伦比的。
 
-PS： When I finished reading it, I suddenly thought of the lines in "Star Trek": ''We used to look up at the stars and think about our position in the universe. And now we only look down, worrying that we won’t find a place to bury ourselves after we die. '' I don't hope that human beings will come to such a situation.
+PS： When I finished reading it, I suddenly thought of the lines in "Interstellar": ''We used to look up at the stars and think about our position in the universe. And now we only look down, worrying that we won’t find a place to bury ourselves after we die. '' I don't hope that human beings will come to such a situation.
+
+
+
+
 
